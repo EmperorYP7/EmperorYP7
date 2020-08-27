@@ -5,4 +5,4 @@ I am a CSE undergrad student at Indian Institute of Information Technology, Ranc
 I love making websites, mobile applications, game engines, blogs, videos and a lot more.
 A pianist, YouTuber, blogger and video editor. (Adobe PP20 :heart:)
 
-[![EmperorYP7's github stats](https://github-readme-stats.vercel.app/api?username=EmperorYP7&show_icons=true)] [![EmperorYP7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorYP7&layout=compact)]
+[EmperorYP7's github stats](https://github-readme-stats.vercel.app/api?username=EmperorYP7&show_icons=true) [EmperorYP7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorYP7&layout=compact)
