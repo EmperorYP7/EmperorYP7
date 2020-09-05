@@ -1,4 +1,4 @@
-### Hi there <img src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish.webp" width="30px">
+### Hi there <img src="tenor.gif" width="30px">
 
 I am a CSE undergrad student at Indian Institute of Information Technology, Ranchi.
 
