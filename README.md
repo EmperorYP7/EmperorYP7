@@ -16,6 +16,7 @@ A pianist, YouTuber, blogger and video editor. (Adobe PP20 :heart:)
 [<img align="left" alt="EmperorYP7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 
+
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorYP7&show_icons=true)
 [![EmperorYP7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorYP7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
