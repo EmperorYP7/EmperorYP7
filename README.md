@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/EmperorYP7/EmperorYP7/blob/master/tenor.gif" width="30px">
+### Hi there <img src="https://github.com/EmperorYP7/EmperorYP7/blob/master/handwave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=EmperorYP7.github.io&style=for-the-badge&url=https%3A%2F%2Femperoryp7.github.io)](https://emperoryp7.github.io/)
 
