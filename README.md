@@ -20,6 +20,8 @@ A pianist, YouTuber, blogger and video editor. (Adobe PP20 :heart:)
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorYP7&show_icons=true&theme=radical)
 [![EmperorYP7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorYP7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorYP7&" alt="EmperorYP7" /></p>
+
 [website]: https://emperoryp7.github.io/
 [twitter]: https://twitter.com/pandeyyash04/
 [youtube]: http://www.youtube.com/c/YashPandey_the_emperor
