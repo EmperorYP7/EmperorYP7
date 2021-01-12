@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=EmperorYP7.github.io&style=for-the-badge&url=https%3A%2F%2Femperoryp7.github.io)](https://emperoryp7.github.io/)
 
 
-I am a CSE undergrad student at Indian Institute of Information Technology, Ranchi.
+I am a Computer Science sophomore at Indian Institute of Information Technology, Ranchi.
 
 I love making websites, mobile applications, game engines, blogs, videos and a lot more.
-A pianist, YouTuber, blogger and video editor. (Adobe PP20 :heart:)
+A pianist, YouTuber, blogger and video editor. (DaVinci Resolve :heart:)
 
 #### Connect with me!
 [<img align="left" alt="emperoryp7.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
