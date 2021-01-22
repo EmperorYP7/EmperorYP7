@@ -8,7 +8,7 @@ I am a sophomore at Indian Institute of Information Technology, Ranchi persuing 
 I love making websites and contributing to the web. Secretly, I also work on game engines, VFX and acoustic softwares. I also love editing videos and interacting 
 with people!
 
-While I am at it, I am a pianist and a YouTuber. I love making and producing professional level music, piano covers. :wink:
+While I am at it, I am a pianist and a YouTuber. I love making and producing professional music and piano covers. :wink:
 
 #### Connect with me!
 [<img align="left" alt="emperoryp7.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
