@@ -3,10 +3,12 @@
 [![Website](https://img.shields.io/website?label=EmperorYP7.github.io&style=for-the-badge&url=https%3A%2F%2Femperoryp7.github.io)](https://emperoryp7.github.io/)
 
 
-I am a Computer Science sophomore at Indian Institute of Information Technology, Ranchi.
+I am a sophomore at Indian Institute of Information Technology, Ranchi persuing Bachelor of Technology (Honours) in Computer Science and Engineering. :computer:
 
-I love making websites, mobile applications, game engines, blogs, videos and a lot more.
-A pianist, YouTuber, blogger and video editor. (DaVinci Resolve :heart:)
+I love making websites and contributing to the web. Secretly, I also work on game engines, VFX and acoustic softwares. I also love editing videos and interacting 
+with people!
+
+While I am at it, I am a pianist and a YouTuber. I love making and producing professional level music, piano covers. :wink:
 
 #### Connect with me!
 [<img align="left" alt="emperoryp7.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
