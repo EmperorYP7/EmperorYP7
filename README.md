@@ -18,10 +18,6 @@ While I am at it, I am a pianist and a YouTuber. I love making and producing pro
 [<img align="left" alt="EmperorYP7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorYP7&show_icons=true&theme=radical)
-[![EmperorYP7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorYP7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorYP7&" alt="EmperorYP7" /></p>
 
 [website]: https://emperoryp7.github.io/
