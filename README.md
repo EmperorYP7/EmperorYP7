@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Pandey</h1>
 <h3 align="center">A passionate Sophomore at Indian Institute of Information Technology, Ranchi pursuing Bachelor of Technology in Computer Science and Engineering.</h3>
-
+<></>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoryp7&label=Profile%20views&color=0e75b6&style=flat" alt="emperoryp7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emperoryp7" alt="emperoryp7" /></a> </p>
