@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GraphQL, Container Orchestration, Data Science, Game Development, Web development and Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [emperoryp.live](emperoryp.live)
+- 👨‍💻 All of my projects are available at [emperoryp.live](https://emperoryp.live/)
 
 - 📝 I regularly write articles on [https://dev.to/emperoryp7](https://dev.to/emperoryp7)
 
