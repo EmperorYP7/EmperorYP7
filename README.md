@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [emperoryp.live](https://emperoryp.live/)
 
-- 📝 I regularly write articles on [https://dev.to/emperoryp7](https://dev.to/emperoryp7)
+- 📝 I regularly write articles on [blog.emperoryp.live](http://blog.emperoryp.live/)
 
 - 💬 Ask me about **ReactJs, OpenGL, C++ and how to play a piano**
 
