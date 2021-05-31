@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yash Pandey</h1>
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">! I'm Yash Pandey
 <h3 align="center">A passionate Sophomore at Indian Institute of Information Technology, Ranchi pursuing Bachelor of Technology in Computer Science and Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoryp7&label=Profile%20views&color=0e75b6&style=flat" alt="emperoryp7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pandeyyash04" target="blank"><img src="https://img.shields.io/twitter/follow/pandeyyash04?logo=twitter&style=for-the-badge" alt="pandeyyash04" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EmperorYP7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working on [Layer5 Website](https://github.com/layer5io/layer5)
 
