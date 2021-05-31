@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">! I'm Yash Pandey
+<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">! I'm Yash Pandey </h1>
 <h3 align="center">A passionate Sophomore at Indian Institute of Information Technology, Ranchi pursuing Bachelor of Technology in Computer Science and Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoryp7&label=Profile%20views&color=0e75b6&style=flat" alt="emperoryp7" /> </p>
@@ -8,9 +8,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmperorYP7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on [Layer5 Website](https://github.com/layer5io/layer5)
+- 🔭 I’m currently working on [Casbin-CPP](https://github.com/casbin/casbin-cpp)
 
-- 🌱 I’m currently learning **GraphQL, Container Orchestration, Data Science, Game Development, Web development and Competitive Programming**
+- 🌱 I’m currently learning **GraphQL, Container Orchestration, Authorization & Authentication, Game Development, Web development and Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [emperoryp.live](https://emperoryp.live/)
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ojCJlW6aMv6sJq5CmyyCKnBFfHQ7c3xk/view?usp=sharing](https://drive.google.com/file/d/1ojCJlW6aMv6sJq5CmyyCKnBFfHQ7c3xk/view?usp=sharing)
 
-- ⚡ Fun fact **I am a YouTuber and a Pianist! Hope you'd like my videos! :wink:**
+- ⚡ Fun fact **I am a YouTuber and a Pianist! Hope you'd like my videos! :wink:** [Head to my YouTube Channel](http://yt.emperoryp.live)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
