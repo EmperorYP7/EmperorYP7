@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Development Roadmap for beginners](https://dev.to/emperoryp7/web-development-roadmap-for-beginners-3p53)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
