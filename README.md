@@ -53,4 +53,5 @@
 <a href="https://www.buymeacoffee.com/emperoryp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emperoryp" /></a>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emperoryp7&show_icons=true&locale=en&count_private=true&theme=dark" alt="emperoryp7" /></p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=emperoryp7&theme=dark" alt="emperoryp7" /> </p>
+
+[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=EmperorYP7&theme=rogue)](https://emperoryp.live)
