@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Pandey</h1>
-<h3 align="center">A passionate Sophomore at Indian Institute of Information Technology, Ranchi pursuing Bachelor of Technology in Computer Science and Engineering.</h3>
+<h3 align="center">A passionate junior at Indian Institute of Information Technology Ranchi studying Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoryp7&label=Profile%20views&color=0e75b6&style=flat" alt="emperoryp7" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [casbin-cpp](https://github.com/casbin/casbin-cpp)
 
-- 🌱 I’m currently learning **GraphQL, Postgres, Container Orchestration and everything that my mind can grasp! :P**
+- 🌱 I’m currently learning **Competitive Programming, GraphQL, Postgres, Container Orchestration and everything that my mind can grasp! :P**
 
 - 👯 I’m looking to collaborate on [CoviSource](https://github.com/EmperorYP7/CoviSource)
 
