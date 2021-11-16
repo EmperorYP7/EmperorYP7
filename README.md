@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **yash.btech.cs19@iiitranchi.ac.in**
 
-- 📄 Know about my experiences [https://jobspring-prod-uploads.s3.amazonaws.com/74c56731-cca5-4613-9c2d-de949eb5a88e-.pdf](https://jobspring-prod-uploads.s3.amazonaws.com/74c56731-cca5-4613-9c2d-de949eb5a88e-.pdf)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mKy2q4mX8WawTQJKQvgiLyBV2LxZ8ODZ/view?usp=sharing)
 
 - ⚡ Fun fact **I am a pianist and a YouTuber. Hope you’d like my videos! 😉**
 
