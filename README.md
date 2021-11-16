@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Pandey</h1>
-<h3 align="center">A passionate junior at Indian Institute of Information Technology Ranchi studying Computer Science</h3>
+<h3 align="center">A passionate Computer Science junior at IIIT Ranchi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoryp7&label=Profile%20views&color=0e75b6&style=flat" alt="emperoryp7" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emperoryp" target="blank"><img src="https://img.shields.io/twitter/follow/emperoryp?logo=twitter&style=for-the-badge" alt="emperoryp" /></a> </p>
 
-- 🔭 I’m currently working on [casbin-cpp](https://github.com/casbin/casbin-cpp)
+- 🔭 I’m currently working on [Trell](https://trell.co)
 
 - 🌱 I’m currently learning **Competitive Programming, GraphQL, Postgres, Container Orchestration and everything that my mind can grasp! :P**
 
@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on [blog.emperoryp.live](http://blog.emperoryp.live)
 
-- 💬 Ask me about **React, Express, C++17**
+- 💬 Ask me about **React, Express, C++17, GoLang**
 
 - 📫 How to reach me **yash.btech.cs19@iiitranchi.ac.in**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mKy2q4mX8WawTQJKQvgiLyBV2LxZ8ODZ/view?usp=sharing)
 
-- ⚡ Fun fact **I am a pianist and a YouTuber. Hope you’d like my videos! 😉**
+- ⚡ Fun fact **I am a pianist and a [YouTuber](https://youtube.com/c/YashPandey_the_emperor). Hope you’d like my videos! 😉**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
