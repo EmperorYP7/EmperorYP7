@@ -1,3 +1,5 @@
+[![cover](./cover.png)](https://linktr.ee/emperoryp)
+
 <h1 align="center">Hi 👋, I'm Yash Pandey</h1>
 <h3 align="center">A passionate Computer Science junior at IIIT Ranchi</h3>
 
