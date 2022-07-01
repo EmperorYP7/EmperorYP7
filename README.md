@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/emperoryp" target="blank"><img src="https://img.shields.io/twitter/follow/emperoryp?logo=twitter&style=for-the-badge" alt="emperoryp" /></a> </p>
 
-- 🔭 I’m currently working on [Trell](https://trell.co)
+- 🔭 I’m currently working on [Mobile Premiere League (MPL)](https://mpl.live)
 
 - 🌱 I’m currently learning **Competitive Programming, GraphQL, Postgres, Container Orchestration and everything that my mind can grasp! :P**
 
