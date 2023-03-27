@@ -1,7 +1,7 @@
 [![cover](./cover.png)](https://linktr.ee/emperoryp)
 
 <h1 align="center">Hi 👋, I'm Yash Pandey</h1>
-<h3 align="center">A passionate Computer Science junior at IIIT Ranchi</h3>
+<h3 align="center">A passionate Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoryp7&label=Profile%20views&color=0e75b6&style=flat" alt="emperoryp7" /> </p>
 
