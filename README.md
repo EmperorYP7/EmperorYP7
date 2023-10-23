@@ -9,21 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/emperoryp" target="blank"><img src="https://img.shields.io/twitter/follow/emperoryp?logo=twitter&style=for-the-badge" alt="emperoryp" /></a> </p>
 
-- 🔭 I’m currently working on [Mobile Premiere League (MPL)](https://mpl.live)
+- 🔭 I’m currently working on [Nasdaq Matching Engine (NME)](https://www.nasdaq.com/solutions/marketplace-technology/nasdaq-trading-technology/about-matching-engines)
 
 - 🌱 I’m currently learning **Competitive Programming, GraphQL, Postgres, Container Orchestration and everything that my mind can grasp! :P**
 
-- 👯 I’m looking to collaborate on [CoviSource](https://github.com/EmperorYP7/CoviSource)
+- 👯 I’m looking to collaborate on [Casbin-CPP](https://github.com/casbin/casbin-cpp)
 
 - 👨‍💻 All of my projects are available at [emperoryp.live](https://emperoryp.live)
 
 - 📝 I regularly write articles on [blog.emperoryp.live](http://blog.emperoryp.live)
 
-- 💬 Ask me about **React, Express, C++17, GoLang**
+- 💬 Ask me about **C++17, Node.js, GoLang**
 
-- 📫 How to reach me **yash.btech.cs19@iiitranchi.ac.in**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mKy2q4mX8WawTQJKQvgiLyBV2LxZ8ODZ/view?usp=sharing)
+- 📫 How to reach me **emperoryp.dev@gmail.com**
 
 - ⚡ Fun fact **I am a pianist and a [YouTuber](https://youtube.com/c/YashPandey_the_emperor). Hope you’d like my videos! 😉**
 
@@ -53,7 +51,7 @@
 
 <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/emperoryp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emperoryp" /></a>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emperoryp7&show_icons=true&locale=en&count_private=true&theme=dark" alt="emperoryp7" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emperoryp7&show_icons=true&theme=radical" alt="emperoryp7" /></p>
 
 
-[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=EmperorYP7&theme=rogue)](https://emperoryp.live)
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmperorYP7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
