@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoryp7&label=Profile%20views&color=0e75b6&style=flat" alt="emperoryp7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emperoryp7&theme=onedark" alt="emperoryp7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/emperoryp" target="blank"><img src="https://img.shields.io/twitter/follow/emperoryp?logo=twitter&style=for-the-badge" alt="emperoryp" /></a> </p>
 
 - 🔭 I’m currently working on [Nasdaq Matching Engine (NME)](https://www.nasdaq.com/solutions/marketplace-technology/nasdaq-trading-technology/about-matching-engines)
